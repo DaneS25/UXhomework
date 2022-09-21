@@ -1,6 +1,6 @@
 import Link from "next/link";
 import React, { useState } from "react";
-import NavItem from "./navitem";
+import NavItem from "./NavItem";
 
 const MENU_LIST = [
   { text: "Home", href: "/" },
